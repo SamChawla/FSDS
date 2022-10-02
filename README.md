@@ -12,3 +12,5 @@ Ineuron Full Stack Data Science Notes and Assignments
 
 e.g jupyter notebook --notebook-dir=D:
 ```
+
+- Check docstring of a function: do `Shift + Tab` on that function.
